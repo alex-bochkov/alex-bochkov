@@ -1,7 +1,5 @@
 Database Architect with over 18 years of experience in Database Administration, Technology Operations, and technical skill set for handling large-scale, high availability database systems. 
 
-Currently working at [Glassdoor](https://glassdoor.com) and very happy with the company mission and my contribution there.
-
 🔭 I love interesting projects and happy to help with:
 - data aspect of business transformation
 - on-prem -> AWS migrations 
