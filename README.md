@@ -1,6 +1,6 @@
 Database Architect with over 18 years of experience in Database Administration, Technology Operations, and technical skill set for handling large-scale, high availability database systems. 
 
-Currently leading the modernization and cloud migration of a large-scale database environment at United Airlines.
+Currently leading the modernization and cloud migration of a large-scale database environment for United Airlines, the world's largest and leading airline.
 
 📫 How to reach me: albochkov03[@]gmail.com
 
